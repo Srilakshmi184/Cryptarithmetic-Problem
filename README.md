@@ -125,6 +125,7 @@ else:
 
 <h2>Output</h2>
 
+![alt text](image.png)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
